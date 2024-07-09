@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stinkytexasbuddha
-- 👀 I’m interested in git, python, MariaDB (MySQL), MongoDB, Linux, bash, R (stats), apache2, various esoteric traditions
+- 👀 I’m interested in git, python, MariaDB (MySQL), PostgreSQL, MongoDB, Linux, bash, R (stats), apache2, various esoteric traditions
 - 🌱 I’m currently learning more about my interests
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... you can't
